@@ -1,5 +1,4 @@
 # Olympics-Data-Analysis-Project
-Unified Mentor Internship 2025
 
 🔍 Project Overview (TL;DR)
 Goal: Analyze Olympics data (from 1896 to recent games) to uncover insights about countries, athletes, events, medals, etc., and build visualizations + maybe ML predictions (like which country might win most medals next time).
